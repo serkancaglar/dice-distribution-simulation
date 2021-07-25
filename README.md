@@ -8,6 +8,7 @@ Dice Distribution Simulation is a [Spring Boot](https://spring.io/guides/gs/spri
 git clone https://github.com/serkancaglar/dice-distribution-simulation.git
 cd dice-distribution-simulation
 ./mvnw package
+mvnw.cmd package
 java -jar target/*.jar
 ```
 
