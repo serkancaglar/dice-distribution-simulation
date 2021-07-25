@@ -10,6 +10,7 @@ cd dice-distribution-simulation
 ./mvnw package
 mvnw.cmd package
 java -jar target/*.jar
+java -jar target/dice-distribution-simulation-0.0.1-SNAPSHOT.jar
 ```
 
 ## Endpoints
